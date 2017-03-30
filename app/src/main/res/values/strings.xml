@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">City Narratives (v.II)</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="checkText">Made It!</string>
+    <string name="foundText">You Found Joyce!</string>
+    <string name="showLocation">Show Location</string>
+    <string name="check">Check</string>
+    <string name="where">Where is Joyce?</string>
+</resources>

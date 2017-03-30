@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check">Verifier</string>
+    <string name="checkText">Accompli !</string>
+    <string name="foundText">Vous avez trouve Joyce !</string>
+    <string name="showLocation">Montre Location</string>
+    <string name="where">Ou est Joyce ?</string>
+</resources>
